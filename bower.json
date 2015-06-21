@@ -1,0 +1,20 @@
+{
+  "name": "AetherDash",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ghostsquad/AetherDash",
+  "authors": [
+    "Weston McNamee <ghost.squadron@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper-elements": "PolymerElements/paper-elements#~1.0.1",
+    "iron-elements": "PolymerElements/iron-elements#~1.0.1"
+  }
+}
